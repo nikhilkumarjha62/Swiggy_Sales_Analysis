@@ -1,9 +1,9 @@
-Swiggy Sales & Revenue Analytics Dashboard
-📌 Project Overview
+# Swiggy Sales & Revenue Analytics Dashboard
+## 📌 Project Overview
 
 This project analyzes 197K+ food delivery records to extract business insights on revenue trends, customer behavior, pricing segments, and geographic performance.
 
-📊 KPIs Analyzed
+## 📊 KPIs Analyzed
 
 Total Revenue
 
@@ -15,7 +15,7 @@ Quarterly Growth
 
 Revenue Concentration (Pareto 80/20)
 
-🔍 Key Analyses
+## 🔍 Key Analyses
 
 Monthly & Weekly Revenue Trends
 
@@ -31,7 +31,7 @@ Premium vs Budget Segment Analysis
 
 Correlation between Price & Rating
 
-🛠 Tools Used
+## 🛠 Tools Used
 
 Python
 
@@ -45,12 +45,12 @@ Seaborn
 
 Plotly
 
-📈 Dataset Size
+## 📈 Dataset Size
 
 197,430 rows
 12 columns
 
-🚀 Business Impact
+## 🚀 Business Impact
 
 Identified revenue concentration across top states
 
